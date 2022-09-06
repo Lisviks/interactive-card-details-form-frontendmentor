@@ -47,7 +47,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [RegEx](https://stackoverflow.com/a/53427113) - This helped me with adding a space every 4 card number digits
+- [RegEx](https://stackoverflow.com/a/9011537) - Regular expression to check if a string contains only numbers
+- [RegEx](https://stackoverflow.com/a/53427113) - Adding a space every 4 card number digits
 
 ## Author
 
