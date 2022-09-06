@@ -24,7 +24,7 @@ form.addEventListener('submit', (e) => {
 
     if (
       (input.id === 'card-number' || input.id === 'month' || input.id === 'year' || input.id === 'cvc') &&
-      !input.value.match(/^\d+$/)
+      !input.value.match(/^[0-9]+$/)
     ) {
       displayError(input, 'Wrong format, number only');
       return;
